@@ -1,0 +1,22 @@
+{
+  "name": "npm-test-published-package",
+  "version": "1.0.0",
+  "description": "Jogendra's first published test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjogendras/npm-test-published-package.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Jogendra Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjogendras/npm-test-published-package/issues"
+  },
+  "homepage": "https://github.com/sjogendras/npm-test-published-package#readme"
+}
