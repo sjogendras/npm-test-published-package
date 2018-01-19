@@ -7,6 +7,10 @@ var Person = function () {
 
     this.sayHello = function()  {
         console.log('Hello : ' + this.name || ' Name not set yet!');
+    },
+
+    this.sayBye = function()  {
+        console.log('Bye Bye : ' + this.name || ' Name not set yet!');
     }
 };
 

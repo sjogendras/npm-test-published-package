@@ -12,3 +12,7 @@ Password: ********
 Email: email.jogendra@gmail.com
 
 npm publish
+
+git tag 1.0.0
+git push --tags
+
